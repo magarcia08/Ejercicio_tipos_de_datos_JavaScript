@@ -9,10 +9,6 @@
 
 ## Segundo paso explicacion del script:
 
-    document.getElementById("simularBtn").addEventListener("click", () => {
-
-Lo usamos para la creacion del boton y que este envie el evento al darle click
-
     const tiradas = 10_000_000;
 
 Declaramos la variable de las n veces que vamos a realizar la simulacion
